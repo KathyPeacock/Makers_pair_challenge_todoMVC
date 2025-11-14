@@ -17,6 +17,8 @@ End: 13.03
 
 ## Environment
 Chrome latest stable = v142.0+ 
+Framework: React
+https://todomvc.com/examples/react/dist/
 
 # Test Checklist
 
