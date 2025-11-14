@@ -148,7 +148,7 @@ Priority 3 bugs fixed as best case. Any existing Priority 3 issues are logged, c
 
 # RISKS 
 | **Risk** | **Severity** | **Likelihood** | **Mitigation** |
-| : -------- | : --------- | : ----------- | : ------------ |
+|:---------|:-------------|:---------------|:---------------|
 | ***Product Owner on holiday*** | High | High | Clear Documentation. Established new chain of command in their place. |
 | ***Test environment unavailable*** | High | High | Devs will not make changes and additions during testing period. Devs will not deploy any new versions. |
 
