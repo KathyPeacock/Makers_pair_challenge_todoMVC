@@ -56,3 +56,9 @@ Medium severity bug has been reported concerning punction inputs. Certain specia
 
 There were a few small unexpected results, ie 'failed' tests that are not deemed urgent as they do not contradict anything in the user spec - eg it was discovered that an input of one character does not work - input has to be more than 2 characters. Also, error message expected for invalid inputs is not present (but recommended before release.)
 
+## Test Process Notes
+
+Based on the process and outcomes of this test we confirm predicted timelines of test plan are accurate.
+
+Please see Test Plan and Test Notes for details on suggested further tests (non priority)
+
